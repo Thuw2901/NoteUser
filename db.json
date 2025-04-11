@@ -1,103 +1,61 @@
-[
-  {
-    "id": 1,
-    "title": "Ghi chú 1",
-    "content": "Nội dung ghi chú 1",
-    "priority": 1,
-    "createdAt": "2023-10-26T10:00:00.000Z",
-    "modifiedAt": "2023-10-26T10:00:00.000Z",
-    "tags": ["tag1", "tag2"],
-    "color": "red"
-  },
-  {
-    "id": 2,
-    "title": "Ghi chú 2",
-    "content": "Nội dung ghi chú 2",
-    "priority": 2,
-    "createdAt": "2023-10-27T14:30:00.000Z",
-    "modifiedAt": "2023-10-27T14:30:00.000Z",
-    "tags": null,
-    "color": "blue"
-  },
-  {
-    "id": 3,
-    "title": "Ghi chú 3",
-    "content": "Nội dung ghi chú 3",
-    "priority": 3,
-    "createdAt": "2023-10-28T09:15:00.000Z",
-    "modifiedAt": "2023-10-28T09:15:00.000Z",
-    "tags": ["tag3"],
-    "color": "green"
-  },
-    {
-    "id": 4,
-    "title": "Ghi chú 4",
-    "content": "Nội dung ghi chú 4",
-    "priority": 1,
-    "createdAt": "2023-10-29T16:45:00.000Z",
-    "modifiedAt": "2023-10-29T16:45:00.000Z",
-    "tags": ["tag1", "tag3"],
-    "color": "yellow"
-  },
-  {
-    "id": 5,
-    "title": "Ghi chú 5",
-    "content": "Nội dung ghi chú 5",
-    "priority": 2,
-    "createdAt": "2023-10-30T11:20:00.000Z",
-    "modifiedAt": "2023-10-30T11:20:00.000Z",
-    "tags": null,
-    "color": "purple"
-  },
-  {
-    "id": 6,
-    "title": "Ghi chú 6",
-    "content": "Nội dung ghi chú 6",
-    "priority": 3,
-    "createdAt": "2023-10-31T13:00:00.000Z",
-    "modifiedAt": "2023-10-31T13:00:00.000Z",
-    "tags": ["tag2"],
-    "color": "orange"
-  }
-]
-
-"accounts": [
+{
+  "notes": [
     {
       "id": 1,
-      "userId": 1,
-      "username": "nguyenvanan",
-      "password": "An@123456",
-      "status": "active",
-      "lastLogin": "2025-04-02T08:15:30.000Z",
-      "createdAt": "2023-05-01T00:00:00.000Z"
+      "title": "Ghi chú 1",
+      "content": "Nội dung ghi chú 1",
+      "priority": 1,
+      "createdAt": "2023-10-26T10:00:00.000Z",
+      "modifiedAt": "2023-10-26T10:00:00.000Z",
+      "tags": ["tag1", "tag2"],
+      "color": "red"
     },
     {
       "id": 2,
-      "userId": 2,
-      "username": "tranthibinh",
-      "password": "Binh@123456",
-      "status": "active",
-      "lastLogin": "2025-04-06T14:22:10.000Z",
-      "createdAt": "2023-06-15T00:00:00.000Z"
+      "title": "Ghi chú 2",
+      "content": "Nội dung ghi chú 2",
+      "priority": 2,
+      "createdAt": "2023-10-27T14:30:00.000Z",
+      "modifiedAt": "2023-10-27T14:30:00.000Z",
+      "tags": null,
+      "color": "blue"
     },
     {
       "id": 3,
-      "userId": 3,
-      "username": "levancuong",
-      "password": "Cuong@123456",
-      "status": "active",
-      "lastLogin": "2025-04-07T19:45:18.000Z",
-      "createdAt": "2023-07-22T00:00:00.000Z"
+      "title": "Ghi chú 3",
+      "content": "Nội dung ghi chú 3",
+      "priority": 3,
+      "createdAt": "2023-10-28T09:15:00.000Z",
+      "modifiedAt": "2023-10-28T09:15:00.000Z",
+      "tags": ["tag3"],
+      "color": "green"
     },
     {
       "id": 4,
-      "userId": 4,
-      "username": "phamthidieu",
-      "password": "Dieu@123456",
-      "status": "unactive",
-      "lastLogin": "2025-04-05T10:30:42.000Z",
-      "createdAt": "2023-08-10T00:00:00.000Z"
-    }
-  ]
-  
-}
+      "title": "Ghi chú 4",
+      "content": "Nội dung ghi chú 4",
+      "priority": 1,
+      "createdAt": "2023-10-29T16:45:00.000Z",
+      "modifiedAt": "2023-10-29T16:45:00.000Z",
+      "tags": ["tag1", "tag3"],
+      "color": "yellow"
+    },
+    {
+      "id": 5,
+      "title": "Ghi chú 5",
+      "content": "Nội dung ghi chú 5",
+      "priority": 2,
+      "createdAt": "2023-10-30T11:20:00.000Z",
+      "modifiedAt": "2023-10-30T11:20:00.000Z",
+      "tags": null,
+      "color": "purple"
+    },
+    {
+      "id": 6,
+      "title": "Ghi chú 6",
+      "content": "Nội dung ghi chú 6",
+      "priority": 3,
+      "createdAt": "2023-10-31T13:00:00.000Z",
+      "modifiedAt": "2023-10-31T13:00:00.000Z",
+      "tags": ["tag2"],
+      "
